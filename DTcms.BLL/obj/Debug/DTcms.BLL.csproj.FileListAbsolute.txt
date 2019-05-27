@@ -1,0 +1,14 @@
+D:\huawei\DTcms.BLL\obj\Debug\DTcms.BLL.csprojResolveAssemblyReference.cache
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.BLL.dll
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.BLL.pdb
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.Common.dll
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.DAL.dll
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.Model.dll
+D:\huawei\DTcms.BLL\bin\Debug\MySql.Data.dll
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.DBUtility.dll
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.Common.pdb
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.DAL.pdb
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.Model.pdb
+D:\huawei\DTcms.BLL\bin\Debug\DTcms.DBUtility.pdb
+D:\huawei\DTcms.BLL\obj\Debug\DTcms.BLL.dll
+D:\huawei\DTcms.BLL\obj\Debug\DTcms.BLL.pdb

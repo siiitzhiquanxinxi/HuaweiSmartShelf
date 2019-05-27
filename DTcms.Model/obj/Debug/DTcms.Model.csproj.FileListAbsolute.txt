@@ -1,0 +1,7 @@
+D:\huawei\DTcms.Model\bin\Debug\DTcms.Model.dll
+D:\huawei\DTcms.Model\bin\Debug\DTcms.Model.pdb
+D:\huawei\DTcms.Model\bin\Debug\DTcms.Common.dll
+D:\huawei\DTcms.Model\bin\Debug\DTcms.Common.pdb
+D:\huawei\DTcms.Model\obj\Debug\DTcms.Model.csprojResolveAssemblyReference.cache
+D:\huawei\DTcms.Model\obj\Debug\DTcms.Model.dll
+D:\huawei\DTcms.Model\obj\Debug\DTcms.Model.pdb

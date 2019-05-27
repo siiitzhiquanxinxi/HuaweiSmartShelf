@@ -1,0 +1,4 @@
+D:\huawei\DTcms.Common\bin\Debug\DTcms.Common.dll
+D:\huawei\DTcms.Common\bin\Debug\DTcms.Common.pdb
+D:\huawei\DTcms.Common\obj\Debug\DTcms.Common.dll
+D:\huawei\DTcms.Common\obj\Debug\DTcms.Common.pdb
