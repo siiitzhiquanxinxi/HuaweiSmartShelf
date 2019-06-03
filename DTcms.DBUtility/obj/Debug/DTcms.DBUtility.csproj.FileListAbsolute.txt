@@ -1,8 +1,8 @@
-D:\huawei\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.csprojResolveAssemblyReference.cache
 D:\huawei\DTcms.DBUtility\bin\Debug\DTcms.DBUtility.dll
 D:\huawei\DTcms.DBUtility\bin\Debug\DTcms.DBUtility.pdb
 D:\huawei\DTcms.DBUtility\bin\Debug\DTcms.Common.dll
 D:\huawei\DTcms.DBUtility\bin\Debug\MySql.Data.dll
 D:\huawei\DTcms.DBUtility\bin\Debug\DTcms.Common.pdb
+D:\huawei\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.csprojResolveAssemblyReference.cache
 D:\huawei\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.dll
 D:\huawei\DTcms.DBUtility\obj\Debug\DTcms.DBUtility.pdb

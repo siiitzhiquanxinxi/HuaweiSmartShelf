@@ -1,0 +1,36 @@
+2019-05-31 16:46:43,System.UnauthorizedAccessException: 对端口“Com1”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 InterfaceHardware.frmMain.bOpen() 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 346,bOpen
+2019-05-31 17:10:43,System.UnauthorizedAccessException: 对端口“Com1”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 InterfaceHardware.frmMain.bOpen() 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 346,bOpen
+2019-05-31 17:15:40,System.UnauthorizedAccessException: 对端口“Com1”的访问被拒绝。
+   在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 InterfaceHardware.frmMain.bOpen() 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 346,bOpen
+2019-05-31 17:15:58,System.IO.IOException: 文件“D:\huawei\InterfaceHardware\bin\Debug\log\2019-05-31\SystemLog.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 InterfaceHardware.frmMain.Writelog(String log, String tag, String flie) 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 313
+   在 InterfaceHardware.frmMain.ReadCommPort1(frmMain frm) 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 403,ReadCommPort1
+2019-05-31 17:16:19,System.IO.IOException: 文件“D:\huawei\InterfaceHardware\bin\Debug\log\2019-05-31\SystemLog.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 InterfaceHardware.frmMain.Writelog(String log, String tag, String flie) 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 313
+   在 InterfaceHardware.frmMain.ReadCommPort1(frmMain frm) 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 403,ReadCommPort1
+2019-05-31 17:25:51,System.IO.IOException: 文件“D:\huawei\InterfaceHardware\bin\Debug\log\2019-05-31\SystemLog.txt”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   在 System.IO.FileStream..ctor(String path, FileMode mode)
+   在 InterfaceHardware.frmMain.Writelog(String log, String tag, String flie) 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 313
+   在 InterfaceHardware.frmMain.TCPOpen() 位置 D:\huawei\InterfaceHardware\frmMain.cs:行号 72,TCPOpen

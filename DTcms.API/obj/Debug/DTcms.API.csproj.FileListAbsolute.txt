@@ -1,4 +1,3 @@
-D:\huawei\DTcms.API\obj\Debug\DTcms.API.csprojResolveAssemblyReference.cache
 D:\huawei\DTcms.API\bin\Debug\DTcms.API.dll
 D:\huawei\DTcms.API\bin\Debug\DTcms.API.pdb
 D:\huawei\DTcms.API\bin\Debug\DTcms.BLL.dll
@@ -12,5 +11,6 @@ D:\huawei\DTcms.API\bin\Debug\DTcms.Common.pdb
 D:\huawei\DTcms.API\bin\Debug\DTcms.Model.pdb
 D:\huawei\DTcms.API\bin\Debug\DTcms.DAL.pdb
 D:\huawei\DTcms.API\bin\Debug\DTcms.DBUtility.pdb
+D:\huawei\DTcms.API\obj\Debug\DTcms.API.csprojResolveAssemblyReference.cache
 D:\huawei\DTcms.API\obj\Debug\DTcms.API.dll
 D:\huawei\DTcms.API\obj\Debug\DTcms.API.pdb

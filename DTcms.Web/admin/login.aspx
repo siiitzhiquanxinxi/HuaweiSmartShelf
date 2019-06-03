@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0,user-scalable=no">
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<title>管理员登录</title>
+<title>华为刀具智能柜管理系统-管理员登录</title>
 <link href="skin/default/style.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="../scripts/jquery/jquery-1.11.2.min.js"></script>
 <script type="text/javascript">
@@ -23,7 +23,7 @@
 <form id="form1" runat="server">
 <div style="width:100%; height:100%; min-width:300px; min-height:260px;"></div>
 <div class="login-wrap">
-  <div class="login-logo">LOGO</div>
+  <div class="login-logo">华为刀具智能柜管理系统</div>
   <div class="login-form">
     <div class="col">
       <asp:TextBox ID="txtUserName" runat="server" CssClass="login-input" placeholder="管理员账号" title="管理员账号" Width="90%"></asp:TextBox>
@@ -41,7 +41,7 @@
 </div>
 
 <div class="copy-right">
-  <p>版权所有 Copyright © 2009 - 2019 dtsoft.net Inc. All Rights Reserved.</p>
+  <p>版权所有 Copyright © 2009 - 2019 siiit.cn Inc. All Rights Reserved.</p>
 </div>
 </form>
 </body>

@@ -1,0 +1,11 @@
+D:\huawei\InterfaceHardware\bin\Debug\InterfaceHardware.exe.config
+D:\huawei\InterfaceHardware\bin\Debug\InterfaceHardware.exe
+D:\huawei\InterfaceHardware\bin\Debug\InterfaceHardware.pdb
+D:\huawei\InterfaceHardware\obj\Debug\InterfaceHardware.csprojResolveAssemblyReference.cache
+D:\huawei\InterfaceHardware\obj\Debug\InterfaceHardware.frmMain.resources
+D:\huawei\InterfaceHardware\obj\Debug\InterfaceHardware.Properties.Resources.resources
+D:\huawei\InterfaceHardware\obj\Debug\InterfaceHardware.csproj.GenerateResource.Cache
+D:\huawei\InterfaceHardware\obj\Debug\InterfaceHardware.exe
+D:\huawei\InterfaceHardware\obj\Debug\InterfaceHardware.pdb
+D:\huawei\InterfaceHardware\bin\Debug\System.Net.Http.dll
+D:\huawei\InterfaceHardware\bin\Debug\System.Net.Http.xml

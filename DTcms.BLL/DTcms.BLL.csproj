@@ -62,6 +62,11 @@
     <Compile Include="sms_message.cs" />
     <Compile Include="sms_template.cs" />
     <Compile Include="sys_config.cs" />
+    <Compile Include="sy_cabinet.cs" />
+    <Compile Include="sy_material.cs" />
+    <Compile Include="sy_shelf.cs" />
+    <Compile Include="temp_camlist.cs" />
+    <Compile Include="temp_planorderlist.cs" />
     <Compile Include="url_rewrite.cs" />
     <Compile Include="users.cs" />
     <Compile Include="user_amount_log.cs" />
@@ -76,6 +81,9 @@
     <Compile Include="user_point_log.cs" />
     <Compile Include="user_recharge.cs" />
     <Compile Include="u_printlog.cs" />
+    <Compile Include="w_barcode.cs" />
+    <Compile Include="w_inout.cs" />
+    <Compile Include="w_inout_barcodedetail.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DTcms.Common\DTcms.Common.csproj">
